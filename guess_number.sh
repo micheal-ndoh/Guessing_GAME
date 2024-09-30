@@ -16,7 +16,7 @@ guessing_number() {
 			read -p "Please try again: " guest_number
 		fi
 	done
-
+	echo 
 	if [ $i -eq 3 ]; then
 		echo "You lose! The correct number was $rand_number."
 	fi
