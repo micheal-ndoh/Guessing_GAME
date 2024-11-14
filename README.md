@@ -9,4 +9,14 @@ git clone https://github.com/micheal-ndoh/Guessing_GAME.git
 ```
 Enter to the repository on your terminal make it executable using
 ```shell
-chmod +x 
+chmod +x Guessing_game_pro.sh
+```
+**Run the game using** 
+```shell
+./Guessing_game_pro.sh
+```
+Enjoy the game and send your feedback and features which I can add to make it more fun and efficient via email on my profile and follow my github for more exculsive and mind blowing accomplishments 
+
+**Thank you for your time**
+
+
